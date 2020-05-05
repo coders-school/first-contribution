@@ -35,7 +35,7 @@ brew install git
 
 [Pobierz](https://git-scm.com/downloads) i zainstaluj
 
-<img align="right" width="300" src="../assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
 ## Utwórz fork repozytorium
 
@@ -44,7 +44,7 @@ Stworzysz tym samym kopie tego repozytorium na swoim koncie.
 
 ## Sklonuj repozytorium
 
-<img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
 
 Teraz sklonuj repozytorium na swój komputer. Kliknij na przycisk "clone" a później na ikonkę *skopiuj do schowka*.
 
@@ -56,7 +56,7 @@ git clone "wklej skopiowany adres"
 
 Gdzie "wklej skopiowany adres" (bez cudzysłowia) to adres tego repozytorium. Zobacz poprzedni krok aby skopiować adres.
 
-<img align="right" width="300" src="../assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
 Przykład:
 
@@ -134,11 +134,11 @@ Zastąp `<add-twoj-nick>` swoją nazwą gałęzi utworzoną wcześniej.
 
 W swoim repozytorium na GitHubie znajdziesz przycisk `Compare & pull request`. Kliknij go.
 
-<img style="float: right;" src="../assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
 
 Teraz wyślij prośbę o scalenie.
 
-<img style="float: right;" src="../assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
 Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. Dostaniesz mailowe powiadomienie, kiedy zmiany zostaną scalone.
 
@@ -146,7 +146,7 @@ Niedługo dodam proponowane przez ciebie zmiany do głównej gałęzi projektu. 
 
 Coś Ci nie wychodzi lub nie wiesz jak zainstalować gita? To wszystko powyżej opisane można też wykonać bez użycia gita. GitHub zapewnia możliwość edytowania plików online. Wystarczy, że klikniesz na ikonę ołówka przy pliku.
 
-<img style="float: right;" src="../assets/github-edit.png" alt="edit on GitHub" />
+<img style="float: right;" src="assets/github-edit.png" alt="edit on GitHub" />
 
 Po zapisaniu pliku (commit) wykonaj krok [Wyślij swoje zmiany do zatwierdzenia](#wyślij-swoje-zmiany-do-zatwierdzenia)
 
