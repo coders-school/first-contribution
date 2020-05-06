@@ -3,4 +3,4 @@
 Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wystarczy sam nick z Discorda.
 
 - [Lukin](https://github.com/ziobron)
-- [AdamV](https://https://github.com/adamvm)
+- [AdamV](https://github.com/adamvm)
