@@ -61,7 +61,7 @@ Gdzie "wklej skopiowany adres" (bez cudzysłowia) to adres tego repozytorium. Zo
 Przykład:
 
 ```git
-git clone https://github.com/to-ty/first-contributions.git
+git clone https://github.com/to-ty/first-contribution.git
 ```
 
 W miejscu 'to-ty' wstaw swój login na githubie. W tym kroku ściągasz zawartość twojej kopii repozytorium first-contributions z githuba na swój komputer.
@@ -71,7 +71,7 @@ W miejscu 'to-ty' wstaw swój login na githubie. W tym kroku ściągasz zawarto�
 Wejdź w folder ze swoim repozytorium (jeżeli jeszcze tam nie jesteś):
 
 ```bash
-cd first-contributions
+cd first-contribution
 ```
 
 Teraz utwórz nową gałąź wykonując polecenie `git checkout`:
