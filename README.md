@@ -101,7 +101,7 @@ Dodaj następującą linię na końcu `Contributors.md`
 Przykład:
 
 ```md
-[John Doe](https://github.com/johndoe)
+- [John Doe](https://github.com/johndoe)
 ```
 
 Upewnij się że nie ma spacji pomiędzy `](`. Zapisz plik i następnie go zamknij.
