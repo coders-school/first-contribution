@@ -6,3 +6,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [AdamV](https://github.com/adamvm)
 - [Kasperice](https://github.com/Kasperice)
 - [anraf1001](https://github.com/anraf1001)
+- [SzymonGajewski](https://github.com/SzymonGajewski)
