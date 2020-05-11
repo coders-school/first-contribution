@@ -14,5 +14,12 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [kontrybutor](https://github.com/kontrybutor) 
 - [kozlofski](https://github.com/kozlofski)
 - [Jakub J](https://github.com/jakjan95)
+- [DarkAriesX](https://github.com/DarkAriesX)
+- [Kuba C](https://github.com/PierwszyKrytykRP)
+- [Przemek_Widz](https://github.com/przemo166)
+- [mtalma](https://github.com/mateusz-talma)
+- [BreWal](https://github.com/wbrejecki)
+- [NG](https://github.com/NG90)
+- [Przemek M](https://github.com/MPrzem)
+- [Paweł](https://github.com/kuchichan)
 - [Bartek8](https://github.com/g00fer)
-
