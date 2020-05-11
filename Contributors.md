@@ -12,3 +12,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Kari003](https://github.com/kari0036)
 - [MonikaZ](https://github.com/MonikaZelechowska)
 - [kontrybutor](https://github.com/kontrybutor) 
+- [kozlofski](https://github.com/kozlofski)
