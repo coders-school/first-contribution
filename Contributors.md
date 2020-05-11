@@ -25,4 +25,5 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Bartek8](https://github.com/g00fer)
 - [Burznazg](https://github.com/Burznazg)
 - [PiotrD](https://github.com/Petrus9107)
+- [Kubaw](https://github.com/Kuba-Wi)
 
