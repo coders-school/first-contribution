@@ -11,3 +11,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [MechaniQ](https://github.com/MechaniQ1)
 - [Kari003](https://github.com/kari0036)
 - [MonikaZ](https://github.com/MonikaZelechowska)
+- [kontrybutor](https://github.com/kontrybutor) 
