@@ -23,3 +23,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Przemek M](https://github.com/MPrzem)
 - [Paweł](https://github.com/kuchichan)
 - [Bartek8](https://github.com/g00fer)
+- [Burznazg](https://github.com/Burznazg)
