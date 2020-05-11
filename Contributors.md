@@ -31,3 +31,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [majkel84](https://github.com/majkel84)
 - [pawellos](https://github.com/Pawellos/)
 - [dusiu](https://github.com/marcindus)
+- [Aga](https://github.com/Nessy90)
