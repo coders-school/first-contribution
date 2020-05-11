@@ -24,3 +24,5 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Paweł](https://github.com/kuchichan)
 - [Bartek8](https://github.com/g00fer)
 - [Burznazg](https://github.com/Burznazg)
+- [PiotrD](https://github.com/Petrus9107)
+
