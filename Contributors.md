@@ -20,3 +20,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [mtalma](https://github.com/mateusz-talma)
 - [BreWal](https://github.com/wbrejecki)
 - [NG](https://github.com/NG90)
+- [Przemek M](https://github.com/MPrzem)
