@@ -28,3 +28,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Kubaw](https://github.com/Kuba-Wi)
 - [Marcinati](https://github.com/Marcinati)
 - [MarcinN](https://github.com/niemarcin)
+- [majkel84](https://github.com/majkel84)
