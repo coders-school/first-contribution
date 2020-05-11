@@ -4,3 +4,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 
 - [Lukin](https://github.com/ziobron)
 - [AdamV](https://github.com/adamvm)
+- [anraf1001](https://github.com/anraf1001)
