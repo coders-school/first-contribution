@@ -9,3 +9,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [SzymonGajewski](https://github.com/SzymonGajewski)
 - [vic95](https://github.com/Vicx95)
 - [MechaniQ](https://github.com/MechaniQ1)
+- [Kari003](https://github.com/kari0036) 
