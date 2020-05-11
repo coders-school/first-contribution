@@ -21,3 +21,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [BreWal](https://github.com/wbrejecki)
 - [NG](https://github.com/NG90)
 - [Przemek M](https://github.com/MPrzem)
+- [Paweł](https://github.com/kuchichan)
