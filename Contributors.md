@@ -8,3 +8,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [anraf1001](https://github.com/anraf1001)
 - [SzymonGajewski](https://github.com/SzymonGajewski)
 - [vic95](https://github.com/Vicx95)
+- [MechaniQ](https://github.com/MechaniQ1)
