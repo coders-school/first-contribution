@@ -18,3 +18,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Kuba C](https://github.com/PierwszyKrytykRP)
 - [Przemek_Widz](https://github.com/przemo166)
 - [mtalma](https://github.com/mateusz-talma)
+- [BreWal](https://github.com/wbrejecki)
