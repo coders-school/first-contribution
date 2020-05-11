@@ -120,6 +120,17 @@ git commit -m "Add <twoj-nick> to Contributors list"
 
 Zastąp `<twoj-nick>` swoim nickiem.
 
+### Konfiguracja użytkownika 
+
+Jeśli wyświetlają Ci się błędy, że nie masz ustawionej nazwy użytkownika i adresu email to je ustaw, zastępując odpowiednio `you@example.com` oraz `Your Name`.
+
+```git
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
+Spróbuj teraz wykonać commit. 
+
 ## Wyślij zmiany na GitHub
 
 Wyślij swoje zmiany komendą `git push`:
