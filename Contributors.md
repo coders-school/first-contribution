@@ -15,3 +15,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [kozlofski](https://github.com/kozlofski)
 - [Jakub J](https://github.com/jakjan95)
 - [DarkAriesX](https://github.com/DarkAriesX)
+- [Kuba C](https://github.com/PierwszyKrytykRP)
