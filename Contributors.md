@@ -19,3 +19,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Przemek_Widz](https://github.com/przemo166)
 - [mtalma](https://github.com/mateusz-talma)
 - [BreWal](https://github.com/wbrejecki)
+- [NG](https://github.com/NG90)
