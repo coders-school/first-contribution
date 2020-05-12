@@ -39,3 +39,5 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [lisie_sprawy](https://github.com/lisie-sprawy)
 - [mirek](https://github.com/m-kop)
 - [Mario Moore](https://github.com/mariomoore)
+- [MateuszK](https://github.com/LogarithmDerivative)
+
