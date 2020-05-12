@@ -32,3 +32,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [pawellos](https://github.com/Pawellos/)
 - [dusiu](https://github.com/marcindus)
 - [Aga](https://github.com/Nessy90)
+- [DawidMalarz](https://github.com/DawidMalarz)
