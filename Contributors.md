@@ -33,3 +33,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [dusiu](https://github.com/marcindus)
 - [Aga](https://github.com/Nessy90)
 - [Alek](https://github.com/alekczapski)
+- [DawidMalarz](https://github.com/DawidMalarz)
