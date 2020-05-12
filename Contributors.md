@@ -38,3 +38,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [KrzysztofJ85](https://github.com/KrzysztofJ85)
 - [lisie_sprawy](https://github.com/lisie-sprawy)
 - [mirek](https://github.com/m-kop)
+- [Mario Moore](https://github.com/mariomoore)
