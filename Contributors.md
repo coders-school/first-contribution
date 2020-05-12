@@ -36,3 +36,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [DawidMalarz](https://github.com/DawidMalarz)
 - [RyszardH](https://github.com/RyszardHalapacz)
 - [KrzysztofJ85](https://github.com/KrzysztofJ85)
+- [lisie_sprawy](https://github.com/lisie-sprawy)
