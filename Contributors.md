@@ -34,4 +34,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Aga](https://github.com/Nessy90)
 - [Alek](https://github.com/alekczapski)
 - [DawidMalarz](https://github.com/DawidMalarz)
-- [MateuszK](https://github.com/LogarithmDerivative)`
+- [MateuszK](https://github.com/LogarithmDerivative)
