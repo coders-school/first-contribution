@@ -40,4 +40,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [mirek](https://github.com/m-kop)
 - [Mario Moore](https://github.com/mariomoore)
 - [MateuszK](https://github.com/LogarithmDerivative)
-
+- [Ian32](https://github.com/Ian64)
