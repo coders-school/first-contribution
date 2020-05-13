@@ -41,3 +41,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Mario Moore](https://github.com/mariomoore)
 - [MateuszK](https://github.com/LogarithmDerivative)
 - [BartM](https://github.com/malinaq3)
+
