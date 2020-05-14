@@ -50,3 +50,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Mattlack](https://github.com/mtlk888/)
 - [krzysztof85](https://github.com/krzkuc1985)
 - [Ptysiek](https://github.com/Ptysiek)
+- [Sławomir Mentzen](https://github.com/Sławomir Mentzen)
