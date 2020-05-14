@@ -44,3 +44,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [WojtekM](https://github.com/WojtekMs)
 - [Lukasz](https://github.com/lksobczyk)
 - [BartM](https://github.com/malinaq3)
+- [Ian32](https://github.com/Ian64)
