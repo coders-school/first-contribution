@@ -42,3 +42,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [MateuszK](https://github.com/LogarithmDerivative)
 - [kyrtaq](https://github.com/kyrtaq)
 - [WojtekM](https://github.com/WojtekMs)
+- [Lukasz](https://github.com/lksobczyk)
