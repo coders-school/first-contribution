@@ -49,3 +49,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [NeoBauer](https://github.com/NeoBauer)
 - [Mattlack](https://github.com/mtlk888/)
 - [krzysztof85](https://github.com/krzkuc1985)
+- [Ptysiek](https://github.com/Ptysiek)
