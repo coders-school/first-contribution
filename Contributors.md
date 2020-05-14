@@ -48,3 +48,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [dawido](https://github.com/dawidjozefczak)
 - [NeoBauer](https://github.com/NeoBauer)
 - [Mattlack](https://github.com/mtlk888/)
+- [krzysztof85](https://github.com/krzkuc1985)
