@@ -46,3 +46,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [BartM](https://github.com/malinaq3)
 - [Ian32](https://github.com/Ian64)
 - [dawido](https://github.com/dawidjozefczak)
+- [NeoBauer](https://github.com/NeoBauer)
