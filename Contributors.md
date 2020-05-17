@@ -55,3 +55,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [marekjanek](https://github.com/MarekJanek)
 - [kasia](https://github.com/kasiasieradzka)
 - [Maciej3206](https://github.com/Maciej3206)
+- [edmundoPL](https://github.com/ArturGubala)
