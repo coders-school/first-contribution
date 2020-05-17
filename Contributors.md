@@ -59,3 +59,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [zgredek15](https://github.com/mmichalm)
 - [nadia1101](https://github.com/nadia1101mj)
 - [danielzwierz](https://github.com/danielzwierz)
+- [Emaus13](https://github.com/Emaus13)
