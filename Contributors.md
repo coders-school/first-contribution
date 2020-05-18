@@ -60,3 +60,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [nadia1101](https://github.com/nadia1101mj)
 - [danielzwierz](https://github.com/danielzwierz)
 - [Emaus13](https://github.com/Emaus13)
+- [Sławomir Mentzen](https://github.com/kali-03)
