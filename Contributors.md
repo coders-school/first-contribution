@@ -61,4 +61,6 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [danielzwierz](https://github.com/danielzwierz)
 - [Emaus13](https://github.com/Emaus13)
 - [Sławomir Mentzen](https://github.com/kali-03)
+- [piezol](https://github.com/piezol)
+- [jaco](https://github.com/whitehorod)
 - [kocur1z](https://github.com/TomaszEichler)
