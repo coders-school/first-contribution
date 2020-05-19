@@ -64,3 +64,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [piezol](https://github.com/piezol)
 - [jaco](https://github.com/whitehorod)
 - [kocur1z](https://github.com/TomaszEichler)
+- [Mateusz](https://github.com/MateuszKwiecien)
