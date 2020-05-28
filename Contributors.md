@@ -66,4 +66,5 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [kocur1z](https://github.com/TomaszEichler)
 - [Mateusz](https://github.com/MateuszKwiecien)
 - [Koko](https://github.com/KornelPrusik)
+- [Szafirmag](https://github.com/WBigaj)
 - [lwisniewski85](https://github.com/lwisniewski85)
