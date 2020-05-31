@@ -68,3 +68,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Koko](https://github.com/KornelPrusik)
 - [Szafirmag](https://github.com/WBigaj)
 - [lwisniewski85](https://github.com/lwisniewski85)
+- [Shadston](https://github.com/shadston)
