@@ -69,3 +69,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Szafirmag](https://github.com/WBigaj)
 - [lwisniewski85](https://github.com/lwisniewski85)
 - [KrzysiekS](https://github.com/kszytko)
+- [Shadston](https://github.com/shadston)
