@@ -71,3 +71,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [KrzysiekS](https://github.com/kszytko)
 - [Shadston](https://github.com/shadston)
 - [Lucz](https://github.com/Yoka40)
+- [szneler](https://github.com/szneler)
