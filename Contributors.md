@@ -73,3 +73,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Lucz](https://github.com/Yoka40)
 - [szneler](https://github.com/szneler)
 - [PufPufina](https://github.com/Papierkowy)
+- [Piotr H](https://github.com/PiotrHCpp)
