@@ -77,3 +77,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [kolgocz](https://github.com/kolgocz)
 - [MoreThanADC](https://github.com/MoreThanADC)
 - [RafalM](https://github.com/MorawskiR)
+- [Valeriy](https://github.com/Warp-12)
