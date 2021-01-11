@@ -74,7 +74,6 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [szneler](https://github.com/szneler)
 - [PufPufina](https://github.com/Papierkowy)
 - [Piotr H](https://github.com/PiotrHCpp)
-- [RafalM](https://github.com/MorawskiR)
 - [kolgocz](https://github.com/kolgocz)
 - [MoreThanADC](https://github.com/MoreThanADC)
-
+- [RafalM](https://github.com/MorawskiR)
