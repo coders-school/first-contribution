@@ -78,3 +78,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [MoreThanADC](https://github.com/MoreThanADC)
 - [RafalM](https://github.com/MorawskiR)
 - [Valeriy](https://github.com/Warp-12)
+- [Barbara](https://github.com/BarTes8)
