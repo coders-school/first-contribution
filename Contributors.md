@@ -79,3 +79,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [RafalM](https://github.com/MorawskiR)
 - [Valeriy](https://github.com/Warp-12)
 - [Barbara](https://github.com/BarTes8)
+- [Jakub K](https://github.com/jakubkaczmarski)
