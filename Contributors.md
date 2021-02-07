@@ -81,3 +81,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Barbara](https://github.com/BarTes8)
 - [Jakub K](https://github.com/jakubkaczmarski)
 - [Gyrydymptum](https://github.com/gyrydymptum)
+- [opiotrowsky](https://gihub.com/opiotrowsky)
