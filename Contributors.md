@@ -82,3 +82,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Jakub K](https://github.com/jakubkaczmarski)
 - [Gyrydymptum](https://github.com/gyrydymptum)
 - [opiotrowsky](https://gihub.com/opiotrowsky)
+- [Kondor](https://github.com/kondorski)
