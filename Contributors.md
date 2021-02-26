@@ -83,3 +83,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Gyrydymptum](https://github.com/gyrydymptum)
 - [opiotrowsky](https://gihub.com/opiotrowsky)
 - [Kondor](https://github.com/kondorski)
+- [Asandil](https://github.com/adrianz261)
