@@ -84,3 +84,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [opiotrowsky](https://gihub.com/opiotrowsky)
 - [Kondor](https://github.com/kondorski)
 - [Asandil](https://github.com/adrianz261)
+- [Kriskus](https://github.com/Kriskus)
