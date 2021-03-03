@@ -85,3 +85,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Kondor](https://github.com/kondorski)
 - [Asandil](https://github.com/adrianz261)
 - [Kriskus](https://github.com/Kriskus)
+- [ser-dziadula](https://github.com/ser-dziadula)
