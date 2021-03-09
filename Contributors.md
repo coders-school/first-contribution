@@ -87,3 +87,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Kriskus](https://github.com/Kriskus)
 - [ser-dziadula](https://github.com/ser-dziadula)
 - [raxonpc](https://github.com/raxonpc)
+- [Pawel100](https://github.com/PawelYak)
