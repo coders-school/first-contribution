@@ -85,6 +85,7 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Kondor](https://github.com/kondorski)
 - [Asandil](https://github.com/adrianz261)
 - [Kriskus](https://github.com/Kriskus)
+- [Krzychtof](https://github.com/krzychtof)
 - [ser-dziadula](https://github.com/ser-dziadula)
 - [raxonpc](https://github.com/raxonpc)
 - [Pawel100](https://github.com/PawelYak)
