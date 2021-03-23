@@ -90,3 +90,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [raxonpc](https://github.com/raxonpc)
 - [Pawel100](https://github.com/PawelYak)
 - [bartosz.gruszczyk](https://github.com/bartosz-gruszczyk)
+- [pwiatr3](https://github.com/pwiatr3)
