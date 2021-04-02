@@ -89,4 +89,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [ser-dziadula](https://github.com/ser-dziadula)
 - [raxonpc](https://github.com/raxonpc)
 - [Pawel100](https://github.com/PawelYak)
-- [Legifini]
+- Legifini
