@@ -92,3 +92,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - Legifini
 - [bartosz.gruszczyk](https://github.com/bartosz-gruszczyk)
 - [pwiatr3](https://github.com/pwiatr3)
+- [mICH-C4C](https://github.com/mICH-C4C)
