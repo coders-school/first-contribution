@@ -95,3 +95,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [mICH-C4C](https://github.com/mICH-C4C)
 - [pako2200](https://github.com/pako2200)
 - [kir5ten](https://github.com/kir5ten)
+- [Paweł#3073](https://github.com/pawelkolimaga)
