@@ -96,3 +96,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [pako2200](https://github.com/pako2200)
 - [kir5ten](https://github.com/kir5ten)
 - [Paweł#3073](https://github.com/pawelkolimaga)
+- [ChKarol](https://github.com/karolchluba)
