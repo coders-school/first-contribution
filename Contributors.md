@@ -98,3 +98,4 @@ Jeśli nie chcesz podawać swoich danych osobowych tutaj, to tego nie rób! Wyst
 - [Paweł#3073](https://github.com/pawelkolimaga)
 - [ChKarol](https://github.com/karolchluba)
 - [JacekP](https://github.com/JacekPretki)
+- [marcin956](https://github.com/marcin956)
